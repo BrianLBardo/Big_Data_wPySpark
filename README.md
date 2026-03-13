@@ -67,8 +67,6 @@ Big Data poses significant challenges in processing, analyzing, and deriving ins
 ## Deliverables
 1. **Notebooks**:
    - Three notebooks showcasing ML, graph analysis, and streaming implementations.
-2. **Report**:
-   - Summarizes methodology, insights, and conclusions for a management audience.
 
 ## Conclusion
 This project demonstrates the power of PySpark in addressing diverse Big Data challenges. By combining machine learning, graph analytics, and streaming, it delivers actionable insights across industries, showcasing scalability, flexibility, and efficiency.
